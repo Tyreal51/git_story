@@ -1,1 +1,1 @@
-This is my git story exercise for today. We are practicing using git.
+This is my git story exercise for today. We are practicing using git. Making new changes today.
